@@ -6,7 +6,7 @@ These Puppet manifests are an outcome of a personal project made in 2017. I trie
 Puppet manifests to set up Oracle and SQL Server databases using Puppet modules.  
 
 ### Oracle 
-For Oracles there are manifests for Standalone Standby/ASM/Grid setup with Patching and configuration. 
+For Oracle there are manifests for Standalone/Standby(DR)/ASM/Grid(HA) setup with Patching and configuration. 
 
 ### SQL Server 
 For SQL Server only the Standalone Standard Edition has been tested.
